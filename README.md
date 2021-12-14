@@ -2,8 +2,8 @@
 cloud
 
 drawback of existing solutions
-- need better awareness how capable how cdn work
-- app follows user
+need better awareness how capable how cdn work
+app follows user
 
 
 
