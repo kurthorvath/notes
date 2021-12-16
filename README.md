@@ -34,3 +34,14 @@ https://www.bleepingcomputer.com/news/security/critical-cloudflare-cdn-flaw-allo
 https://www.news18.com/news/tech/fastly-cdn-outage-meant-twitch-reddit-nyt-and-more-sites-crashed-but-the-fix-is-here-3823277.html
 
 # Marlin Protokol
+
+---- 14.12
+SD general
+
+-> research problems (3 main chapter thesis)
+granularity 
+Security
+Privacy
+
+UseCase application (smartcity)
+find papers which refer to SD until next meeting and prepare short summary
